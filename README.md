@@ -15,7 +15,8 @@
    <li>googlesearchpython</li>
    <li>time</li>
  </ul>
-
+<p>To run this python file in your local computer run this command in your terminal</p>
+<strong>Command: python -m streamlit run AlternateWebsite.py</strong>
  <a href="https://file-searcher-nishant-maity.streamlit.app/">View app</a>
  
 <p>it is responsive works on any devices</p>
